@@ -101,8 +101,6 @@
 <p align="center">
 	<a href="mailto:mstfatmcc5757@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/atmcmustafa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://instagram.com/mstfatmcc"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCGqb6NUdyG93NCWecExzb6w"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 </p>
 
 <hr/>
