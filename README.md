@@ -38,7 +38,7 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
     <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Tailwindcss" src="[https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white](https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=flat&logo=tailwindcss&logoColor=white)"/>
   </a>
 </p>
 
