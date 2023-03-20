@@ -19,7 +19,7 @@
 <p align="left"> 
   &emsp;
   <a href="https://www.w3schools.com/javascript/" target="_blank"> 
-    <img alt="Javascript" src="https://img.shields.io/badge/Javscript%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow">
   </a> 
 </p>
 
