@@ -46,7 +46,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+    <a href="https://www.netlify.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Netlify%20Pages-%23327FC7.svg?style=flat&llogo=netlify&logoColor=white"></a>
  </p>
   
 ### 👉Graphic Designing
